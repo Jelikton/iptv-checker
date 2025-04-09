@@ -1,0 +1,218 @@
+[
+  {
+    "name": "1 канал (HD ready - DASH)",
+    "tvg_name": "1 канал (HD ready - DASH)",
+    "logo": "https://iptvx.one/picons/pervy.png",
+    "group": "Федеральные",
+    "id": "pervy",
+    "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd",
+    "number": 1
+  },
+  {
+    "name": "Россия 1 (HD)",
+    "tvg_name": "Россия 1 (HD)",
+    "logo": "https://iptvx.one/picons/rossia1.png",
+    "group": "Федеральные",
+    "id": "rossia1",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8",
+    "number": 2
+  },
+  {
+    "name": "Матч! (SD - WVGA)",
+    "tvg_name": "Матч! (SD - WVGA)",
+    "logo": "https://iptvx.one/picons/match-tv.png",
+    "group": "Федеральные",
+    "id": "match-tv",
+    "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8",
+    "number": 3
+  },
+  {
+    "name": "НТВ (HD)",
+    "tvg_name": "НТВ (HD)",
+    "logo": "https://iptvx.one/picons/ntv.png",
+    "group": "Федеральные",
+    "id": "ntv",
+    "url": "http://cdn2.ntv.ru/ntv0_hd/playlist.m3u8",
+    "number": 4
+  },
+  {
+    "name": "Пятый канал (SD - EDTV)",
+    "tvg_name": "Пятый канал (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/5kanal-ru.png",
+    "group": "Федеральные",
+    "id": "5kanal-ru",
+    "url": "http://178.212.71.253:8000/play/5/index.m3u8",
+    "number": 5
+  },
+  {
+    "name": "Россия-К (HD)",
+    "tvg_name": "Россия-К (HD)",
+    "logo": "https://iptvx.one/picons/kultura.png",
+    "group": "Федеральные",
+    "id": "kultura",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8",
+    "number": 6
+  },
+  {
+    "name": "Россия 24 (SD - WSVGA)",
+    "tvg_name": "Россия 24 (SD - WSVGA)",
+    "logo": "https://iptvx.one/picons/rossia-24.png",
+    "group": "Федеральные",
+    "id": "rossia-24",
+    "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-sd/index.m3u8",
+    "number": 7
+  },
+  {
+    "name": "Карусель (SD - EDTV)",
+    "tvg_name": "Карусель (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/karusel.png",
+    "group": "Федеральные",
+    "id": "karusel",
+    "url": "http://5.8.58.61:8080/Karusel/index.m3u8",
+    "number": 8
+  },
+  {
+    "name": "ОТР (SD - EDTV)",
+    "tvg_name": "ОТР (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/otr.png",
+    "group": "Федеральные",
+    "id": "otr",
+    "url": "http://178.212.71.253:8000/play/9/index.m3u8",
+    "number": 9
+  },
+  {
+    "name": "ТВ Центр (SD - FWVGA)",
+    "tvg_name": "ТВ Центр (SD - FWVGA)",
+    "logo": "https://iptvx.one/picons/tvcentr.png",
+    "group": "Федеральные",
+    "id": "tvcentr",
+    "url": "http://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221_2.smil/playlist.m3u8",
+    "number": 10
+  },
+  {
+    "name": "Рен ТВ (HD)",
+    "tvg_name": "Рен ТВ (HD)",
+    "logo": "https://iptvx.one/picons/rentv.png",
+    "group": "Федеральные",
+    "id": "rentv",
+    "url": "http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=REN-TV_0_hd",
+    "number": 11
+  },
+  {
+    "name": "Спас (SD - WSVGA)",
+    "tvg_name": "Спас (SD - WSVGA)",
+    "logo": "https://iptvx.one/picons/spas.png",
+    "group": "Федеральные",
+    "id": "spas",
+    "url": "http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8",
+    "number": 12
+  },
+  {
+    "name": "СТС (HD)",
+    "tvg_name": "СТС (HD)",
+    "logo": "https://iptvx.one/picons/sts.png",
+    "group": "Федеральные",
+    "id": "sts",
+    "url": "http://list.onlinetv-sochi.ru:8080/live/view5mod.php?name_id=STS_0_hd",
+    "number": 13
+  },
+  {
+    "name": "Домашний (SD - WVGA)",
+    "tvg_name": "Домашний (SD - WVGA)",
+    "logo": "https://iptvx.one/picons/domashny.png",
+    "group": "Федеральные",
+    "id": "domashny",
+    "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY/variant.m3u8",
+    "number": 14
+  },
+  {
+    "name": "ТВ3 (SD - FWVGA)",
+    "tvg_name": "ТВ3 (SD - FWVGA)",
+    "logo": "https://iptvx.one/picons/tv3-ru.png",
+    "group": "Федеральные",
+    "id": "tv3-ru",
+    "url": "http://62.113.114.202:8000/play/tv3",
+    "number": 15
+  },
+  {
+    "name": "Пятница! (SD - WVGA)",
+    "tvg_name": "Пятница! (SD - WVGA)",
+    "logo": "https://iptvx.one/picons/piatnica.png",
+    "group": "Федеральные",
+    "id": "piatnica",
+    "url": "http://zabava-htlive.cdn.ngenix.net/hls/CH_PYATNIZZA/variant.m3u8",
+    "number": 16
+  },
+  {
+    "name": "Звезда (HD)",
+    "tvg_name": "Звезда (HD)",
+    "logo": "https://iptvx.one/picons/zvezda.png",
+    "group": "Федеральные",
+    "id": "zvezda",
+    "url": "http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8",
+    "number": 17
+  },
+  {
+    "name": "Мир (HD)",
+    "tvg_name": "Мир (HD)",
+    "logo": "https://iptvx.one/picons/mir.png",
+    "group": "Федеральные",
+    "id": "mir",
+    "url": "http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8",
+    "number": 18
+  },
+  {
+    "name": "ТНТ (SD - EDTV)",
+    "tvg_name": "ТНТ (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/tnt.png",
+    "group": "Федеральные",
+    "id": "tnt",
+    "url": "http://188.190.222.53/THT/index.m3u8",
+    "number": 19
+  },
+  {
+    "name": "МузТВ (SD - EDTV)",
+    "tvg_name": "МузТВ (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/muztv.png",
+    "group": "Федеральные",
+    "id": "muztv",
+    "url": "http://5.8.58.61:8080/muztv/index.m3u8",
+    "number": 20
+  },
+  {
+    "name": "ТНТ4 (SD - WSVGA)",
+    "tvg_name": "ТНТ4 (SD - WSVGA)",
+    "logo": "https://iptvx.one/picons/tnt4.png",
+    "group": "Развлекательные",
+    "id": "tnt4",
+    "url": "http://188.190.222.53/TNT4/index.m3u8",
+    "number": 21
+  },
+  {
+    "name": "2x2 (SD - WSVGA)",
+    "tvg_name": "2x2 (SD - WSVGA)",
+    "logo": "https://iptvx.one/picons/2na2.png",
+    "group": "Развлекательные",
+    "id": "2na2",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8",
+    "number": 22
+  },
+  {
+    "name": "Cartoon Network (SD - EDTV)",
+    "tvg_name": "Cartoon Network (SD - EDTV)",
+    "logo": "https://iptvx.one/picons/cartoon-network.png",
+    "group": "Детские",
+    "id": "cartoon-network",
+    "url": "http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv",
+    "number": 23
+  },
+  {
+    "name": "Кубань 24 (SD - WVGA / WINK?)",
+    "tvg_name": "Кубань 24 (SD - WVGA / WINK?)",
+    "logo": "https://iptvx.one/picons/kuban-24.png",
+    "group": "Региональные",
+    "id": "kuban-24",
+    "url": "https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8",
+    "number": 24
+  }
+]
